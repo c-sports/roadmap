@@ -39,7 +39,7 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [ ] Releasing the CSPN IPGF
 - [ ] Releasing the first official CSPN Internal Platform Game (CSPN IPG)
 - [ ] Marketing the CSPN IPGF and IPG
-- [ ] Looking for ways to integrate NFT into the CSPN eco system
+- [x] Looking for ways to integrate NFT into the CSPN eco system
 
 ### Phase III
 
