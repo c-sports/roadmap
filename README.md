@@ -34,6 +34,12 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [ ] Hosting and Marketing the first official CSPN Tournament with sponsored prizes to win
 - [ ] Partnering with various gaming organizations by utilizing the CSPN Referral System
 - [ ] Creating new trading pairs on existing exchanges
+- [x] Building CSPN's Official Internal Platform Games Framework for Game Developers (CSPN IPGF)
+- [ ] Finalizing and Testing the CSPN IPGF
+- [ ] Releasing the CSPN IPGF
+- [ ] Releasing the first official CSPN Internal Platform Game (CSPN IPG)
+- [ ] Marketing the CSPN IPGF and IPG
+- [ ] Looking for ways to integrate NFT into the CSPN eco system
 
 ### Phase III
 
@@ -45,53 +51,44 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [ ] Marketing the CSPN MW
 - [ ] Improving the CSPN Core Wallet
 - [ ] Adding new games to the CSPN Platform
+- [ ] Building the CSPN Contest System (CSPN CS)
+- [ ] Finalizing and Testing the CSPN CS
+- [ ] Releasing the CSPN CS
+- [ ] Running and Marketing first CSPN Contests
+- [ ] Building the CSPN „Vote for Your Game“-System (CSPN VYG)
+- [ ] Finalizing and Testing the CSPN VYG
+- [ ] Releasing the CSPN VYG
+- [ ] Building the CSPN IPG 24/7 Tournament System (CSPN IPG TS)
+- [ ] Finalizing and Testing the CSPN IPG TS
+- [ ] Releasing the CSPN IPG TS
+- [ ] Marketing the CSPN IPG TS
+
+### Phase IV
+
+- [ ] Frequently Hosting and Marketing CSPN Tournaments and Contests
+- [ ] Extending the CSPN Core Team
+- [ ] Improving the CSPN Core Wallet
+- [ ] Adding new games to the CSPN Platform
 - [ ] Continue the development of the CSPN Clan Wars System (CSPN CWS)
 - [ ] Finalizing and Testing the CSPN CWS
 - [ ] Releasing the CSPN CWS
 - [ ] Marketing the CSPN CWS
-- [ ] Building the CSPN „Vote for Your Game“-System (CSPN VYG)
-- [ ] Finalizing and Testing the CSPN VYG
-- [ ] Releasing the CSPN VYG
+- [ ] Building the official CSPN Online Store (CSPN OS)
+- [ ] Releasing the CSPN OS
+- [ ] Marketing the CSPN OS
 - [ ] Building the CSPN Mobile Games Framework for Game Developers (CSPN MGF)
 - [ ] Finalizing and Testing the CSPN MGF
 - [ ] Releasing the CSPN MGF
 - [ ] Releasing the first official CSPN Mobile Game utilizing the CSPN MGF
 - [ ] Marketing the CSPN MGF
 
-### Phase IV
+### Phase V
 
-- [ ] Frequently Hosting and Marketing CSPN Tournaments
+- [ ] Frequently Hosting and Marketing CSPN Tournaments and Contests
 - [ ] Extending the CSPN Core Team
-- [ ] Improving the CSPN Core Wallet
-- [ ] Adding new games to the CSPN Platform
-- [ ] Building the CSPN Contest System (CSPN CS)
-- [ ] Finalizing and Testing the CSPN CS
-- [ ] Releasing the CSPN CS
-- [ ] Running and Marketing first CSPN Contests
-- [ ] Building the official CSPN Online Store (CSPN OS)
-- [ ] Releasing the CSPN OS
-- [ ] Marketing the CSPN OS
 - [ ] Building the CSPN Live-Streaming System with Tipping Functionality (CSPN LSS)
 - [ ] Finalizing and Testing the CSPN LSS
 - [ ] Releasing the CSPN LSS
 - [ ] Marketing the CSPN LSS
 - [ ] Listing CSPN on additional Exchanges
 - [ ] Providing Direct Buy Options for CSPN
-
-### Phase V
-
-- [ ] Frequently Hosting and Marketing CSPN Tournaments and Contests
-- [ ] Extending the CSPN Core Team
-- [ ] Building CSPN's Official Internal Platform Games Framework for Game Developers (CSPN IPGF)
-- [ ] Finalizing and Testing the CSPN IPGF
-- [ ] Releasing the CSPN IPGF
-- [ ] Releasing the first official CSPN Internal Platform Game (CSPN IPG)
-- [ ] Marketing the CSPN IPGF and IPG
-- [ ] Building the CSPN IPG 24/7 Tournament System (CSPN IPG TS)
-- [ ] Finalizing and Testing the CSPN IPG TS
-- [ ] Releasing the CSPN IPG TS
-- [ ] Marketing the CSPN IPG TS
-
-### Phase VI
-
-- [ ] TBD
