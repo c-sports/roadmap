@@ -1,4 +1,4 @@
-Crypto Sports (CSPN) Official Road Map
+Crypto Sports (CSPN) Official Roadmap
 =================================================
 
 Crypto Sports builds the bridge between the eSports and Crypto world, offering gamers and developers innovative ways to connect and provide opportunities for every gamer, casual or professional, to earn money doing what they love most thanks to the Crypto Sports Network and our crypto currency, CSPN.
