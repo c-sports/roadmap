@@ -5,6 +5,7 @@ Crypto Sports builds the bridge between the eSports and Crypto world, offering g
 
 For more information visit [cspn.io](http://www.cspn.io)
 
+
 ### Phase I
 
 - [x] Get CSPN ready.
@@ -24,26 +25,30 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [x] Listing CSPN on additional Exchanges
 - [x] Adding new games to the CSPN Platform
 - [x] Extending the CSPN Core Team
-- [ ] Improving the UI of the CSPN Platform and adding a FAQ Section
-- [ ] Boosting CSPN's social media activity
-- [ ] Marketing the CSPN Platform (Banners, Interviews, Reviews and Articles on various sites and media channels)
+- [x] Improving the UI of the CSPN Platform and adding a FAQ Section
+- [x] Boosting CSPN's social media activity
 - [ ] Improving the CSPN Core Wallet
-- [ ] Building the CSPN Tournament System (CSPN TS)
+- [x] Start building the CSPN Contest System (CSPN CS)
+- [ ] Finalizing and Testing the CSPN CS
+- [ ] Releasing the CSPN CS
+- [ ] Running and Marketing first CSPN Contests
+- [ ] Partnering with various gaming organizations by utilizing the CSPN Referral System
+- [x] Start building the CSPN Tournament System (CSPN TS)
 - [ ] Finalizing and Testing the CSPN TS
 - [ ] Implementing a Tournament Qualification System based on Experience Points
 - [ ] Hosting and Marketing the first official CSPN Tournament with sponsored prizes to win
-- [ ] Partnering with various gaming organizations by utilizing the CSPN Referral System
 - [ ] Creating new trading pairs on existing exchanges
-- [x] Building CSPN's Official Internal Platform Games Framework for Game Developers (CSPN IPGF)
+- [x] Start building CSPN's Official Internal Platform Games Framework for Game Developers (CSPN IPGF)
 - [ ] Finalizing and Testing the CSPN IPGF
 - [ ] Releasing the CSPN IPGF
 - [ ] Releasing the first official CSPN Internal Platform Game (CSPN IPG)
 - [ ] Marketing the CSPN IPGF and IPG
+- [ ] Marketing the CSPN Platform (Banners, Interviews, Reviews and Articles on various sites and media channels)
 - [x] Looking for ways to integrate NFT into the CSPN eco system
 
 ### Phase III
 
-- [ ] Frequently Hosting and Marketing CSPN Tournaments
+- [ ] Frequently Hosting and Marketing CSPN Tournaments and Contests
 - [ ] Extending the CSPN Core Team
 - [ ] Building the new CSPN Mobile Wallet for Android and iOS (CSPN MW)
 - [ ] Testing the CSPN MW
@@ -51,10 +56,6 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [ ] Marketing the CSPN MW
 - [ ] Improving the CSPN Core Wallet
 - [ ] Adding new games to the CSPN Platform
-- [ ] Building the CSPN Contest System (CSPN CS)
-- [ ] Finalizing and Testing the CSPN CS
-- [ ] Releasing the CSPN CS
-- [ ] Running and Marketing first CSPN Contests
 - [ ] Building the CSPN „Vote for Your Game“-System (CSPN VYG)
 - [ ] Finalizing and Testing the CSPN VYG
 - [ ] Releasing the CSPN VYG
