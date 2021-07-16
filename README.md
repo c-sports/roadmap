@@ -32,16 +32,16 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [ ] Finalizing and Testing the CSPN CS
 - [ ] Releasing the CSPN CS
 - [ ] Running and Marketing first CSPN Contests
-- [ ] Partnering with various gaming organizations by utilizing the CSPN Referral System
+- [x] Partnering with various gaming organizations by utilizing the CSPN Referral System
 - [x] Start building the CSPN Tournament System (CSPN TS)
 - [ ] Finalizing and Testing the CSPN TS
 - [ ] Implementing a Tournament Qualification System based on Experience Points
 - [ ] Hosting and Marketing the first official CSPN Tournament with sponsored prizes to win
 - [ ] Creating new trading pairs on existing exchanges
 - [x] Start building CSPN's Official Internal Platform Games Framework for Game Developers (CSPN IPGF)
-- [ ] Finalizing and Testing the CSPN IPGF
-- [ ] Releasing the CSPN IPGF
-- [ ] Releasing the first official CSPN Internal Platform Game (CSPN IPG)
+- [x] Finalizing and Testing the CSPN IPGF
+- [x] Releasing the CSPN IPGF
+- [x] Releasing the first official CSPN Internal Platform Game (CSPN IPG)
 - [ ] Marketing the CSPN IPGF and IPG
 - [ ] Marketing the CSPN Platform (Banners, Interviews, Reviews and Articles on various sites and media channels)
 - [x] Looking for ways to integrate NFT into the CSPN eco system
