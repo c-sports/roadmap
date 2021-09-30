@@ -29,8 +29,8 @@ For more information visit [cspn.io](http://www.cspn.io)
 - [x] Boosting CSPN's social media activity
 - [ ] Improving the CSPN Core Wallet
 - [x] Start building the CSPN Contest System (CSPN CS)
-- [ ] Finalizing and Testing the CSPN CS
-- [ ] Releasing the CSPN CS
+- [x] Finalizing and Testing the CSPN CS
+- [x] Releasing the CSPN CS
 - [ ] Running and Marketing first CSPN Contests
 - [x] Partnering with various gaming organizations by utilizing the CSPN Referral System
 - [x] Start building the CSPN Tournament System (CSPN TS)
